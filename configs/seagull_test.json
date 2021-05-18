@@ -1,0 +1,5 @@
+{
+    "query":"SELECT * FROM techinasia.dim_countries",
+    "owner":"siu_sing",
+    "tablename":"seagull_test"
+}
