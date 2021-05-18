@@ -1,0 +1,5 @@
+{
+    "query":"SELECT 'pigeon' as bird",
+    "owner":"siu_sing",
+    "tablename":"pigeon_test"
+}
