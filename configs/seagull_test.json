@@ -1,5 +1,5 @@
 {
-    "query":"SELECT * FROM datamart.dim_countries",
+    "query":"SELECT * FROM public.dim_countries",
     "owner":"siu_sing",
     "tablename":"seagull_test"
 }
