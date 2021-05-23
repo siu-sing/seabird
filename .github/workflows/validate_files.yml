@@ -19,6 +19,4 @@ jobs:
           pip install sqlparse
       - name: Validate Files
         run: |
-          pwd
-          ls
-          ls ${{ github.workspace }}
+          python validator/validate.py
