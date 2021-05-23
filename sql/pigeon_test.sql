@@ -1,0 +1,1 @@
+ELECT 'pigeon' as bird

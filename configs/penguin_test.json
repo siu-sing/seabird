@@ -1,5 +1,0 @@
-{
-    "query":"SELECT 'penguin' AS bird",
-    "owner":"siu_sing",
-    "tablename":"penguin_test"
-}

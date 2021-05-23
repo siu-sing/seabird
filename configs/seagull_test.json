@@ -1,5 +1,0 @@
-{
-    "query":"SELECT * FROM public.dim_countries",
-    "owner":"siu_sing",
-    "tablename":"seagull_test"
-}
