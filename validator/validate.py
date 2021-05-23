@@ -45,3 +45,4 @@ def main():
 if __name__ == "__main__":
     SQL_PATH = join(Path(__file__).parent.parent,'sql')
     main()
+
