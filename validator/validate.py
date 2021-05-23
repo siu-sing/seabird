@@ -39,10 +39,13 @@ def main():
         for pf in problematic_files:
             print(f'{pf[0]} {pf[1]}')
         
+        return 1
+        
     else:
         print('All files valid.')
+        return 0
 
 if __name__ == "__main__":
     SQL_PATH = join(Path(__file__).parent.parent,'sql')
-    main()
+    exit(main())
 
