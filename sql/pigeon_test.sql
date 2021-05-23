@@ -1,1 +1,1 @@
-ELECT 'pigeon' as bird
+SELECT 'pigeon' as bird
